@@ -27,3 +27,12 @@ is announced as the winner and the game stats are updated in the
 playerdata file.  After the game is over, the players are prompted for
 a rematch or to quit the game.  In a single-player game, all of the 
 player 2 functions are carried out through the use of the random function.
+
+Please note that this program was written before we covered object-oriented
+programming and as a result the source code is long and full of functions.
+However, despite the clunky nature of the code, it works as intended.
+Special thanks to a classmate, Jason Weeks, for letting us use his utilities.cpp
+include to add a little color to our programs.
+
+Also note that due to the windows-specific includes, this program probably will
+not work properly on a Mac. Sorry about that.
