@@ -3,7 +3,7 @@ battleship
 
 Name: Matthew Stewart<br>
 Date: December 4, 2013<br>
-Program: Final Program - Battleship<br>
+Program: C++ I Final Project - Battleship<br>
 Description:<br>
   This program will allow a single player to play a game of Battleship
 against the computer or  two human players to play against each other.
